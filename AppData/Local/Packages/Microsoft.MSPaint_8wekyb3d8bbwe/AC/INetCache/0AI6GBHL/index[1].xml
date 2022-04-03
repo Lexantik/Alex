@@ -1,0 +1,60 @@
+<index>
+  <pageSet id="09272017-content-set">
+    <landingPage>
+      <videoHero src="https://compass-ssl.microsoft.com/assets/94/2b/942bad57-6ecb-4303-8f10-b0c57e79472b.mp4?n=20180731_Paint3D_WhatsNew_TubeBrush.mp4">
+        <title>New: Tube Brush</title>
+        <posterImage src="https://compass-ssl.microsoft.com/assets/4c/8f/4c8fa7e2-c2e8-4a13-ba6f-1e6f64f76711.png?n=WhatsNew_TubeBrush_Thumbnail.png" />
+        <closedCaptionsUrl src="https://compass-ssl.microsoft.com/assets/31/6a/316adfef-d6f5-4912-a535-89936b58df79.srt?n=Whats_New_Tube_Brush_SUBS_SRT.srt" enabledByDefault="FALSE" />
+      </videoHero>
+      <videoHero src="https://compass-ssl.microsoft.com/assets/2b/b6/2bb647b1-cde2-4923-9814-90e6c1759694.mp4?n=WeeklyVid2-EN.mp4">
+        <title>3D for everyone</title>
+        <posterImage src="https://compass-ssl.microsoft.com/assets/ce/60/ce6099d1-016f-480f-94f0-60d0fc2d2779.jpg?n=WeeklyVid2Preview-EN.jpg" />
+        <closedCaptionsUrl src="https://compass-ssl.microsoft.com/assets/57/54/5754385d-7cf5-4bcf-b1b7-4f5cb0195e59.ass?n=WeeklyVid2-EN.ass" enabledByDefault="TRUE" />
+      </videoHero>
+      <challengeHero>
+        <backgroundImage src="https://compass-ssl.microsoft.com/assets/68/5b/685b0d74-ce15-425c-9356-b9c7c7efb3f8.gif?n=032018_P3D_Start_Screen_City_Kit_24fps.gif" />
+        <title>Create in 3D</title>
+        <ctaText>START</ctaText>
+        <description>
+With the updated tools and brushes in Paint 3D, quickly paint, accessorize, and build your own 3D creations. We’ve got models and kits to get you started!
+</description>
+        <challengeID>3vkCqsxjqeH</challengeID>
+      </challengeHero>
+      <secondaryChallenge>
+        <backgroundImage src="https://compass-ssl.microsoft.com/assets/56/8a/568a10f1-a9dd-41fa-aa24-19f4ddfdec86.png?n=paint_stingray.png" />
+        <title>Latest 3D collections</title>
+        <challengeID>3sbfVZRbeJu</challengeID>
+      </secondaryChallenge>
+    </landingPage>
+    <videoPage>
+      <videoHero src="https://compass-ssl.microsoft.com/assets/b8/da/b8dae5c9-1ad0-45e8-8e82-c7d8001ff39d.mp4?n=WeeklyVid3-EN.mp4">
+        <title>Make a penguin</title>
+        <posterImage src="https://compass-ssl.microsoft.com/assets/26/a2/26a20dd1-3a6f-4d43-99ff-7c5ca777f65c.jpg?n=WeeklyVid3Preview-EN.jpg" />
+        <closedCaptionsUrl src="https://compass-ssl.microsoft.com/assets/f4/af/f4afc77a-3d53-419f-a9a8-e484ee822feb.ass?n=WeeklyVid3-EN.ass" enabledByDefault="TRUE" />
+      </videoHero>
+      <videoHero src="https://compass-ssl.microsoft.com/assets/9f/52/9f52493e-03c1-4ba7-b9b3-01788dd6081a.mp4?n=WeeklyVid4-EN.mp4">
+        <title>The perfect pigeon</title>
+        <posterImage src="https://compass-ssl.microsoft.com/assets/df/2b/df2b47d1-505b-4a2d-86c6-1e189811ef86.jpg?n=WeeklyVid4Preview-EN.jpg" />
+        <closedCaptionsUrl src="https://compass-ssl.microsoft.com/assets/8b/61/8b61e5d7-dfb7-40d9-a096-0faadae33f29.SRT?n=Pigeon-EN.SRT" enabledByDefault="FALSE" />
+      </videoHero>
+      <videoHero src="https://compass-ssl.microsoft.com/assets/cd/0c/cd0cd84f-a55d-4da6-a681-cf93b4d3ad18.mp4?n=WeeklyVid5-EN.mp4">
+        <title>Magic select tool</title>
+        <posterImage src="https://compass-ssl.microsoft.com/assets/fb/62/fb62937a-5197-4296-8804-a30556a0bb3b.jpg?n=WeeklyVid5Preview-EN.jpg" />
+        <closedCaptionsUrl src="https://compass-ssl.microsoft.com/assets/0b/f7/0bf7c6be-4044-4239-940a-ed648eb9df45.ass?n=WeeklyVid5-EN.ass" enabledByDefault="TRUE" />
+      </videoHero>
+    </videoPage>
+    <challengePage>
+      <modelID>3vkCqsxjqeH</modelID>
+      <title>What is Remix 3D?</title>
+      <subtitle></subtitle>
+      <description>
+Discover 3D content. Create collections of 3D models using boards. Publish your own creations and share with your friends.
+
+Remix 3D is your new home for 3D.
+
+Visit the full site on Remix3D.com, or explore Remix 3D from within Paint 3D now.</description>
+      <ctaText>Go to Remix 3D</ctaText>
+      <backgroundImage src="https://compass-ssl.microsoft.com/assets/10/5f/105f0a23-4525-466b-a797-bbfb0699f168.png?n=Island_CutAsset_Large.png" />
+    </challengePage>
+  </pageSet>
+</index>
