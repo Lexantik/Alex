@@ -1,0 +1,22 @@
+{
+   "add_time" : "2019-10-10T01:58:11.725+03:00",
+   "author" : "",
+   "is_new" : false,
+   "licenseTierReq" : {
+      "Amp2License" : 2,
+      "Fx2LE" : true,
+      "Fx2License" : 0,
+      "celestion_classic" : false,
+      "expansion_acoustic" : false,
+      "expansion_bass" : false,
+      "expansion_metal" : false,
+      "modern_vintage" : false,
+      "pedalLicense" : {
+         "delay" : 0,
+         "distortion" : 0,
+         "modulation" : 0
+      }
+   },
+   "modified_time" : "2019-10-10T01:58:11.729+03:00",
+   "name" : "Bluesrock Plexi"
+}

@@ -1,0 +1,18 @@
+{
+   "add_time" : "2019-10-10T01:48:46.746+03:00",
+   "author" : "",
+   "is_new" : false,
+   "licenseTierReq" : {
+      "Amp2LE" : true,
+      "Amp2License" : 3,
+      "Fx2LE" : false,
+      "Fx2License" : 3,
+      "celestion_classic" : true,
+      "expansion_acoustic" : false,
+      "expansion_bass" : false,
+      "expansion_metal" : false,
+      "modern_vintage" : false
+   },
+   "modified_time" : "2019-10-10T01:48:46.750+03:00",
+   "name" : "Pat's 175"
+}

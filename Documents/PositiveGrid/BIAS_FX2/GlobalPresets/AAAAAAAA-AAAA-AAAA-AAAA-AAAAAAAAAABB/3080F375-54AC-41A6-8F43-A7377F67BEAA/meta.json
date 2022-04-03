@@ -1,0 +1,21 @@
+{
+   "add_time" : "2019-10-10T02:14:53.740+03:00",
+   "author" : "",
+   "is_new" : false,
+   "licenseTierReq" : {
+      "Fx2LE" : false,
+      "Fx2License" : 2,
+      "celestion_classic" : false,
+      "expansion_acoustic" : true,
+      "expansion_bass" : false,
+      "expansion_metal" : true,
+      "modern_vintage" : false,
+      "pedalLicense" : {
+         "delay" : 0,
+         "distortion" : 0,
+         "modulation" : 0
+      }
+   },
+   "modified_time" : "2019-10-10T02:14:53.745+03:00",
+   "name" : "clean free"
+}

@@ -1,0 +1,21 @@
+{
+   "add_time" : "2019-10-10T15:18:34.434+03:00",
+   "author" : "",
+   "is_new" : false,
+   "licenseTierReq" : {
+      "Fx2LE" : false,
+      "Fx2License" : 0,
+      "celestion_classic" : false,
+      "expansion_acoustic" : false,
+      "expansion_bass" : false,
+      "expansion_metal" : false,
+      "modern_vintage" : false,
+      "pedalLicense" : {
+         "delay" : 0,
+         "distortion" : 0,
+         "modulation" : 0
+      }
+   },
+   "modified_time" : "2019-10-10T15:18:34.436+03:00",
+   "name" : "Khruangbin Rig Rundown"
+}

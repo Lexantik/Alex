@@ -1,0 +1,22 @@
+{
+   "add_time" : "2019-10-10T01:05:40.226+03:00",
+   "author" : "",
+   "is_new" : false,
+   "licenseTierReq" : {
+      "Amp2License" : 2,
+      "Fx2LE" : true,
+      "Fx2License" : 0,
+      "celestion_classic" : false,
+      "expansion_acoustic" : false,
+      "expansion_bass" : false,
+      "expansion_metal" : false,
+      "modern_vintage" : false,
+      "pedalLicense" : {
+         "delay" : 0,
+         "distortion" : 0,
+         "modulation" : 0
+      }
+   },
+   "modified_time" : "2019-10-10T01:05:40.229+03:00",
+   "name" : "John Mayer Clean"
+}

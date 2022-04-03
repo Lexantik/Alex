@@ -1,0 +1,82 @@
+{
+   "PedalPresets" : [
+      {
+         "display_order" : 0,
+         "is_favorite" : false,
+         "preset_name" : "Metal One",
+         "preset_uuid" : "0F10342D-C180-2D0A-3459-838A5CE89A77"
+      },
+      {
+         "display_order" : 1,
+         "is_favorite" : false,
+         "preset_name" : "Distortion 1",
+         "preset_uuid" : "3B20BF69-83C3-544D-9492-0A03E921615D"
+      },
+      {
+         "display_order" : 2,
+         "is_favorite" : false,
+         "preset_name" : "Metal Tone",
+         "preset_uuid" : "181D2403-1E81-9E9C-45E1-46AC3721AF6C"
+      },
+      {
+         "display_order" : 3,
+         "is_favorite" : false,
+         "preset_name" : "Turbo Distortion",
+         "preset_uuid" : "ABA65C16-4DF5-BF57-855B-38D145A27866"
+      },
+      {
+         "display_order" : 4,
+         "is_favorite" : false,
+         "preset_name" : "Hellraiser",
+         "preset_uuid" : "F4C2C7B4-12D1-2D99-59CB-379EAC677299"
+      },
+      {
+         "display_order" : 5,
+         "is_favorite" : false,
+         "preset_name" : "PG Metal",
+         "preset_uuid" : "0DADBC05-2A00-6297-BE10-0E31DD2271C3"
+      },
+      {
+         "display_order" : 6,
+         "is_favorite" : false,
+         "preset_name" : "Pro Rat",
+         "preset_uuid" : "EE179FC3-0401-98E0-B741-421CA5751F9A"
+      },
+      {
+         "display_order" : 7,
+         "is_favorite" : false,
+         "preset_name" : "PG Distortion",
+         "preset_uuid" : "DF672AC7-E444-4D92-BAD8-66B9F97943C4"
+      },
+      {
+         "display_order" : 8,
+         "is_favorite" : false,
+         "preset_name" : "Ole School Metal",
+         "preset_uuid" : "B689DFB2-DB5B-44AD-BF49-D5D80A94878A"
+      },
+      {
+         "display_order" : 9,
+         "is_favorite" : false,
+         "preset_name" : "Modern Metal",
+         "preset_uuid" : "D9AFA07E-E41B-4ED9-A708-EC98B0A36C82"
+      },
+      {
+         "display_order" : 10,
+         "is_favorite" : false,
+         "preset_name" : "Silicon Dist",
+         "preset_uuid" : "AD376150-2F74-409F-9B81-D587F2C8FBFC"
+      },
+      {
+         "display_order" : 11,
+         "is_favorite" : false,
+         "preset_name" : "Doom",
+         "preset_uuid" : "E59ADA27-D593-4008-87D6-072914A87B6E"
+      },
+      {
+         "display_order" : 12,
+         "is_favorite" : false,
+         "preset_name" : "Crazy Highway",
+         "preset_uuid" : "10F0EC79-0BF8-4B6F-9C09-CDA466C5F30C"
+      }
+   ]
+}
